@@ -1,0 +1,1 @@
+Olá, meu nome é Lucas Pinheiro e esta é uma API genérica feita em JAVASCRIPT no NODE.JS, utitlizando como framework para gerenciar as requisições e rotas o EXPRESS!! E ainda utilizando o SEQUELIZE para a criação, versionamento, população de tabelas e das models!!
